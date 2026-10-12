@@ -3,7 +3,7 @@
 export const SITE = {
   title: "PyCon US Maintainer Summit",
   shortName: "Maintainer Summit",
-  tagline: "A gathering for open source Python maintainers at PyCon US",
+  tagline: "For everyone who is committed to the open source Python ecosystem",
   description:
     `The PyCon US Maintainer Summit brings together maintainers, contributors, researchers,
     policymakers, and everyone invested in the health and sustainability of the open source
@@ -159,7 +159,7 @@ export const SOCIAL = [
 ];
 
 export const FOOTER = {
-  tagline: "A gathering for everyone who is committed to the open source Python ecosystem",
+  tagline: "For everyone who is committed to the open source Python ecosystem",
   // The repo, not mariatta.ca: the theme's Footer appends its own version
   // number ("· v0.7.0") when the credit URL points at mariatta.ca, which
   // suits the theme's demos but not a PyCon-branded site.
